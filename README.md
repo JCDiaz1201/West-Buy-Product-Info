@@ -5,3 +5,4 @@
 - Build production bundle.js with
     - npm run build
     ``# westbuy-product-info-component-
+# West-Buy-Product-Info-Component
