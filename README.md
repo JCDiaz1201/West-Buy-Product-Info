@@ -12,15 +12,7 @@ The Product-Info component was originally built with an React-Express-Node-MySQL
 When the component was made to work with both Postgres and MongoDb the back end was also optimized to handle hundreds more requests per second than its original production build as well as a significant reduction of max request latency. The application was deployed via AWS featuring auto-scaling groups that scale horizontally both at the application instance level and at the database level based on a pre-determined network traffic threshold. 
 
 ## How to use
-=======
-# West-Buy-Product-Info-Component
->>>>>>> 2f20e7c1962f809c76c54dda3e8e4d8790fc9907
 - Run webpack live server with
     - npm start
 - Build production bundle.js with
     - npm run build
-    ``# westbuy-product-info-component-
-<<<<<<< HEAD
-
-=======
->>>>>>> 2f20e7c1962f809c76c54dda3e8e4d8790fc9907
