@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # West Buy: Product-Info Micro-Service
 
 ![alt text](https://scotch-res.cloudinary.com/image/upload/w_1050,q_auto:good,f_auto/v1540545426/tzs50mjrlopv85r3qjpq.jpg "MERN Stack Technologies Used")
